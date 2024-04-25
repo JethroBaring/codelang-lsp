@@ -1,0 +1,20 @@
+FN TEST() 
+BEGIN FN
+	INT YES
+
+
+END FN
+
+FN ANOTHER()
+BEGIN FN
+	BOOL complete
+
+
+END FN
+
+
+BEGIN CODE
+	STRING x
+
+
+END CODE
